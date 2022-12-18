@@ -1,5 +1,7 @@
 # Informe-tarea-4
 
+Nombre: Steveen Vallejo
+
 ***1. OBJETIVOS***
 
 _Estudiar los circuitos equivalentes
@@ -66,6 +68,7 @@ _Repasar las conversiones y-delta delta-y
 
 ***4)Video***
 
+https://www.youtube.com/watch?v=8DYKetgTTN
 
 ***5.Conclusiones***
 
